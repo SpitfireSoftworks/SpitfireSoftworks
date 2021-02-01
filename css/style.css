@@ -13,3 +13,41 @@ footer {
   clear:both;
   padding-top:20px;
 }
+
+body {
+    /* background-color: slategray; */
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: #212529;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #606366;
+}
+
+#page-title {
+    font-weight: 800;
+}
+
+.container {
+    @media (max-width: 480px) {
+        width: 100%;
+    }
+    @media (min-width: 481px) {
+        width: 70%;
+    }
+}
+
+.social-icon {
+    width: 25px;
+    margin: 25px;
+}
+
+.img-fluid {
+    width: auto;
+    height: 300px;
+}
