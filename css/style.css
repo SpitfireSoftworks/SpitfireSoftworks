@@ -67,3 +67,7 @@ a:hover {
     width: auto;
     height: 300px;
 }
+
+.home-title {
+    text-align: center;
+}
