@@ -26,7 +26,7 @@ footer {
 
 body {
     font-size: 1.5em;
-    background-color: #918E80;
+    background-color: #dadada;
 }
 
 a {
@@ -63,7 +63,7 @@ a:hover {
     height: 300px;
 }
 
-.home-title {
+.center-text {
     text-align: center;
 }
 
